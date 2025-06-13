@@ -1,1 +1,1 @@
-# Gerencidor-de-senhas-2
+# Gerenciador-de-senha
